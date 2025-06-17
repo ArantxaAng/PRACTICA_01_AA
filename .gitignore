@@ -1,2 +1,2 @@
 #Ignorar archivos y carpeta de logs
-./logs
+logs/
